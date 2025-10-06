@@ -1,0 +1,6 @@
+039b687 | 2025-10-05 | Final Commit with paper included
+4d42bc2 | 2025-10-02 | Added constraints, forgot to commit before solving this beast
+91c44af | 2025-10-02 | Successfully loaded demand and times from the word doc
+f23f49d | 2025-10-02 | First steps creating the structure
+7cc0b2d | 2025-10-02 | Update README.md
+baaa5ce | 2025-10-02 | Initial commit
